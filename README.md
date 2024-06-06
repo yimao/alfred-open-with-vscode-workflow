@@ -4,8 +4,6 @@
 
 An [Alfred 5](https://www.alfredapp.com/) workflow opening files or folders with [Visual Studio Code](https://code.visualstudio.com/).
 
-Based off of the Alfred 2 workflow from [franzheidl/alfred-workflows](https://github.com/franzheidl/alfred-workflows).
-
 ## Installation
 
 1. [Download the workflow](https://github.com/alexchantastic/alfred-open-with-vscode-workflow/releases/latest)
